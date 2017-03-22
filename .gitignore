@@ -1,2 +1,3 @@
 src/*.js
 src/test-data.ts
+node_modules/
