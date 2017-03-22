@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+    },
+    "files": [
+        "src/reviewkun.ts",
+        "src/test.ts",
+        "src/test-data.ts"
+    ],
+    "compileOnSave": false
+}
